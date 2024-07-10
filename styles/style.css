@@ -37,7 +37,7 @@ body{
     height: 652px;
     width: 1440px;
     margin: 0 auto;
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url(../assets/Hero-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -225,7 +225,7 @@ body{
     height: 314px;
     padding: 64px 48px;
     border-radius: 16px;
-    background-image:url(/assets/handshake.jpg);
+    background-image:url(../assets/handshake.jpg);
     display: flex;
     flex-direction: column;
     justify-content: center;
